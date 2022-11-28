@@ -1,0 +1,249 @@
+.headingpart {
+    padding: 20px 80px;
+   
+}
+
+.iconwidth {
+    width: 100px;
+}
+
+.iconpadding{
+    padding-right:180px;
+    padding-top:40px;
+    
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');.headingoptionpadding{
+    padding-right:20px;
+    font-family: 'Anton', sans-serif;
+
+}
+
+.headingbuttonpadding{
+    display:inline-block;
+    padding-right:20px;
+}
+
+.headingmenu{
+    display: inline-block;
+    padding-left:120px;
+    padding-top:10px;
+}
+
+.headingsearch{
+    display:inline-block;
+    padding-left:10px;
+
+}
+
+
+.headingbuttondesign{
+    padding:10px 20px;
+    border-color:rgb(201, 0, 0);
+    color:rgb(201, 0, 0);
+    background-color:white;
+    
+    
+}
+
+.headingcontactbuttondesign{
+    padding:10px 20px;
+    border-color:rgb(201, 0, 0);
+    color:white;
+    background-color:rgb(201, 0, 0);
+
+}
+
+
+
+
+
+.headingoptionpadding:link{
+    color:inherit;
+    background-color:transparent;
+    text-decoration: none;
+}
+
+.headingoptionpadding:visited{
+    color:inherit;
+    background-color:transparent;
+    text-decoration:none;
+}
+
+
+.headingoptionpadding:hover{
+    color:rgb(150, 10, 10);
+    background-color:transparent;
+    border-bottom-style: solid;
+    font-size: 25px;
+    
+}
+
+
+
+.vloggernamedivbox{
+    padding-left:80px;
+    padding-top:10px;
+    padding-bottom:10px;
+    background-color:rgb(150, 10, 10);
+    border:none;
+    margin:0px;
+
+}
+
+.vloggernamefont{
+    font-family: 'Anton', sans-serif;
+    font-size: 25px;
+    color:white;
+}
+
+.container{
+    padding: 80px;
+}
+
+/* left container part */
+.leftcontainerpart {
+    display: inline-block;
+    width: 60%;
+    
+
+}
+
+.leftinnerheading{
+    font-size:45px;
+    
+
+}
+.hoverleftinnerheading:link{
+    color:black;
+    text-decoration: none;
+}
+
+.hoverleftinnerheading:visited{
+    
+    color:black;
+    text-decoration: none;
+}
+
+.hoverleftinnerheading:hover{
+    font-size:55px;
+    color:red;
+    text-decoration:underline;
+}
+
+.readmorebuttonpadding:link{
+    color:white;
+    font-size:16px;
+    text-decoration: none;
+}
+
+.readmorebuttonpadding:hover{
+    font-size:25px;
+    color:inherit;
+    text-decoration:none;
+}
+
+.readmorebuttonpadding{
+    padding: 10px 20px;
+    background-color: red;
+    color:white;
+    font-family:'Anton', sans-serif;
+    border-color: red;
+    
+}
+
+.bottomdivleftcontainerpart{
+    padding-top:10px;
+    padding-bottom:10px;
+    
+    margin-top:40px;
+    background-color: #dee0e3;
+
+}
+
+.bottomdivleftcontainerpartpadding{
+    padding-left:10px;
+
+}
+
+.salespadding{
+    padding-left:30px;
+    color:grey;
+}
+
+.manupadding{
+    padding-left: 30px;
+    color:grey;
+}
+
+
+
+
+
+
+/* right container part */
+.rightcontainerpart {
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    padding-left:80px;
+    padding-top:80px;
+    padding-bottom:80px;
+
+  
+    
+
+}
+
+.miliimgpadding{
+    padding-bottom:150px;
+}
+
+.subscribebox{
+    padding:40px 30px;
+    background-color:#97a0a1;
+    text-align: left;
+
+
+}
+
+.emailbox{
+    width: 300px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:20px
+}
+
+.subscribebutton{
+    padding:10px 20px;
+    border:none;
+
+}
+
+.subscribebuttonpadding{
+    padding-top:40px;
+}
+
+/* bottom div */
+.bottom {
+    background-color: black;
+    padding-top:20px;
+    padding-right:100px;
+    padding-left:100px;
+    padding-bottom:10px;
+    color:white; 
+
+}
+
+.bottomleft{
+    display: inline-block;
+    width:40%;
+    
+}
+
+.bottomright{
+    display: inline-block;
+    width:50%;
+    text-align:right;
+}
+
